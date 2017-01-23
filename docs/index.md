@@ -31,3 +31,6 @@ Tüm bileşenler GPL v3 lisansı ile lisanslanmış olup, tamamen açık kaynak 
 GPL lisans detayları için bkz: [http://ozgurlisanslar.org.tr/gpl/gpl-v3/](http://ozgurlisanslar.org.tr/gpl/gpl-v3/)
 
 
+deneme
+
+
